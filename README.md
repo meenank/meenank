@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is varun and i am a computer science student.
+I am proficient in c++ 
+Also i am currently learning web development
